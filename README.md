@@ -36,6 +36,9 @@
 
    <img align="center" alt="Rafa-Js" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   JavaScript <br> 
+
+  <img align="center" alt="Rafa-Js" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  Python <br> 
   
 </div>
 
