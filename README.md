@@ -26,7 +26,11 @@
 
 <div style="display: flex;"><br> 
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  Java  html css javascript   
+  Java 
+ <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  html 
+  css 
+  javascript   
 </div>
 
 </div>     
